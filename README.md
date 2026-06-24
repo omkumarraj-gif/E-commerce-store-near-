@@ -24,7 +24,7 @@
 - JWT Authentication
 
 ## Project Status
-🚀 Under Development
+🚀 Under Development 
 
 ## Author
 Om Kumar Raj
